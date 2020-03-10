@@ -8,7 +8,7 @@ module.exports = {
       resolve: `@kentico/gatsby-source-kontent`,
       options: {
         deliveryClientConfig: {
-          projectId: `5ac93d1e-567d-01e6-e3b7-ac435f77b907`,
+          projectId: `cb04d832-4ea9-0037-44ec-b7e9c5f3cb87`,
         },
         languageCodenames: [
           `default`,
